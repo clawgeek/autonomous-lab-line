@@ -1,0 +1,8 @@
+frames/
+clips/
+audio/
+pv*/
+preview/
+cover_raw/
+narration.wav
+*.mp4.part
